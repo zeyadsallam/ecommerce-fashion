@@ -1,4 +1,4 @@
-<a href="https://ecommerce-fashion-demo.netlify.app/landing.html"><h1>Live Demo</h1></a>
+<h1><a href="https://ecommerce-fashion-demo.netlify.app/landing.html">Live Demo</a></h1>
 
 
 ![website preview](/assets/preview.png "Site Preview")
